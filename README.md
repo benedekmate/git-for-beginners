@@ -4,3 +4,4 @@ gfgfgfgfg
 
 <head>
   // trying conflict
+var x = 1;
