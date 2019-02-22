@@ -2,4 +2,5 @@ git-for-beginners
 gfgfg
 gfgfgfgfg
 
-<head
+<head>
+  // trying conflict
